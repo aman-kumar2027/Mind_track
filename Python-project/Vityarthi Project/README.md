@@ -235,29 +235,6 @@ Privacy note: the files are **not encrypted**. They stay on your device, but any
 
 ---
 
-## Screenshots
-
-**Main menu**
-
-![Main menu](docs/screenshots/01-main-menu.png)
-
-**Journal: write and view**
-
-![Journal](docs/screenshots/02-journal.png)
-
-**Mood: log and view**
-
-![Mood log](docs/screenshots/03-mood.png)
-
-**Affirmation and stress questionnaire**
-
-![Affirmation and stress questionnaire](docs/screenshots/04-affirmation-and-stress.png)
-
-**Error handling: invalid option and missing files**
-
-![Error handling](docs/screenshots/05-error-handling.png)
-
----
 
 ## Instructions for Testing
 
