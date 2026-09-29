@@ -1,4 +1,4 @@
-I# MindTrack-CLI
+# MindTrack-CLI
 
 > An offline, beginner-friendly command-line app for journaling, mood tracking and stress self-checks. Your data never leaves your computer.
 
