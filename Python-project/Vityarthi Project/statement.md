@@ -1,12 +1,12 @@
-Problem Statement: Mental health awareness has increased but many people still lack consistent habits of emotional reflection due to lack of simple tools, privacy concerns, or over-complicated apps.
-This project solves this problem by delivering an offline, beginner-friendly command-line application that encourages self-reflection through journaling, mood logs, and guided assessments while safeguarding data locally.
+Problem Statement: There has been an increase in awareness of mental health in people, but very few people have the habit of reflecting emotionally regularly owing to unavailability of easy tools, privacy issues or complicated mobile applications.
+This project addresses this problem in providing a beginner-friendly command-line based application which will motivate users to reflect on themselves through journal entries, mood entries and self-assessments in a safe manner.
 
-Scope for the Project:To provide users with a easy-access and convenient space for self-reflection.
+Scope of the Project: To give the user an easy to access space to reflect upon himself.
 
 Target users:
-Students who are stressed with their academics personal life problems.
-People who have privacy concerns and want to store their thoughts locally.
+Students with stressful academic life and personal problems.
+People with privacy issues and wanting to store their data locally.
 
 High level features:
-Simple,easily accessible and user-friendly
-offline and local data storage
+Easy-to-use and accessible
+Offline and local data storage

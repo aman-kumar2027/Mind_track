@@ -1,6 +1,5 @@
  MindTrack-CLI 
 #Overview
-MindTrack is an easily accessible Python project that helps the users keep track of their emotional well-being by interacting with the terminal.
 The users can write journal entries, log their mood for the day, receive positive affirmations and take a short stress-level quiz.
 All the information is stored locally in .txt and .csv files, so it is rather light and easy to launch, without having to install any additional packages.
 
